@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "3cfab51966734c609c6a386824523da3", 
+  "language": "eng_GB", 
+  "title": "Category Not Available in Spanish", 
+  "image": "287a6c1cd4ac42778f1e1d464ef65f6c", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "category-not-available-spanish", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
